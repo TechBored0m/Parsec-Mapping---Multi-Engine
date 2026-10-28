@@ -1,0 +1,6 @@
+{
+  "name": "Parsec Aerospace Vault & Hologram Bio-Reconstitution Chamber",
+  "description": "Explore the holographic character archive in an aerospace vault, scan biometric identity manifests, and 3D print subjects onto the hibernation gate bed where they awaken.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
